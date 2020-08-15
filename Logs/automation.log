@@ -1,0 +1,1083 @@
+08/13/2020 02:25:23 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 02:25:23 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 02:25:23 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 02:25:23 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 02:25:23 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 02:25:29 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 02:25:29 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 02:25:29 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 02:25:29 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 02:25:29 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 02:25:33 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 02:25:33 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 02:25:33 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 02:25:33 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 02:25:33 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 02:25:45 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 02:25:45 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 02:25:45 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 02:25:45 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 02:25:45 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 02:25:49 PM: INFO:*********************** Test_002_DDT_Login ***********************
+08/13/2020 02:25:49 PM: INFO:*********************** Test_002_DDT_Login ***********************
+08/13/2020 02:25:49 PM: INFO:*********************** Test_002_DDT_Login ***********************
+08/13/2020 02:25:49 PM: INFO:*********************** Test_002_DDT_Login ***********************
+08/13/2020 02:25:49 PM: INFO:*********************** Test_002_DDT_Login ***********************
+08/13/2020 02:25:49 PM: INFO:*********************** Verifying Login DDT test ***********************
+08/13/2020 02:25:49 PM: INFO:*********************** Verifying Login DDT test ***********************
+08/13/2020 02:25:49 PM: INFO:*********************** Verifying Login DDT test ***********************
+08/13/2020 02:25:49 PM: INFO:*********************** Verifying Login DDT test ***********************
+08/13/2020 02:25:49 PM: INFO:*********************** Verifying Login DDT test ***********************
+08/13/2020 02:25:51 PM: INFO:******* Reading data from excel **********
+08/13/2020 02:25:51 PM: INFO:******* Reading data from excel **********
+08/13/2020 02:25:51 PM: INFO:******* Reading data from excel **********
+08/13/2020 02:25:51 PM: INFO:******* Reading data from excel **********
+08/13/2020 02:25:51 PM: INFO:******* Reading data from excel **********
+08/13/2020 02:26:03 PM: INFO:****Passed****
+08/13/2020 02:26:03 PM: INFO:****Passed****
+08/13/2020 02:26:03 PM: INFO:****Passed****
+08/13/2020 02:26:03 PM: INFO:****Passed****
+08/13/2020 02:26:03 PM: INFO:****Passed****
+08/13/2020 02:26:13 PM: INFO:****Passed****
+08/13/2020 02:26:13 PM: INFO:****Passed****
+08/13/2020 02:26:13 PM: INFO:****Passed****
+08/13/2020 02:26:13 PM: INFO:****Passed****
+08/13/2020 02:26:13 PM: INFO:****Passed****
+08/13/2020 02:26:19 PM: INFO:****Passed****
+08/13/2020 02:26:19 PM: INFO:****Passed****
+08/13/2020 02:26:19 PM: INFO:****Passed****
+08/13/2020 02:26:19 PM: INFO:****Passed****
+08/13/2020 02:26:19 PM: INFO:****Passed****
+08/13/2020 02:26:25 PM: INFO:****Passed****
+08/13/2020 02:26:25 PM: INFO:****Passed****
+08/13/2020 02:26:25 PM: INFO:****Passed****
+08/13/2020 02:26:25 PM: INFO:****Passed****
+08/13/2020 02:26:25 PM: INFO:****Passed****
+08/13/2020 02:26:25 PM: INFO:*****Login DDT test Passed*****
+08/13/2020 02:26:25 PM: INFO:*****Login DDT test Passed*****
+08/13/2020 02:26:25 PM: INFO:*****Login DDT test Passed*****
+08/13/2020 02:26:25 PM: INFO:*****Login DDT test Passed*****
+08/13/2020 02:26:25 PM: INFO:*****Login DDT test Passed*****
+08/13/2020 02:26:25 PM: INFO:*********************** End of Test_002_DDT_Login ***********************
+08/13/2020 02:26:25 PM: INFO:*********************** End of Test_002_DDT_Login ***********************
+08/13/2020 02:26:25 PM: INFO:*********************** End of Test_002_DDT_Login ***********************
+08/13/2020 02:26:25 PM: INFO:*********************** End of Test_002_DDT_Login ***********************
+08/13/2020 02:26:25 PM: INFO:*********************** End of Test_002_DDT_Login ***********************
+08/13/2020 02:26:25 PM: INFO:*********************** Completed Test_002_DDT_Login ***********************
+08/13/2020 02:26:25 PM: INFO:*********************** Completed Test_002_DDT_Login ***********************
+08/13/2020 02:26:25 PM: INFO:*********************** Completed Test_002_DDT_Login ***********************
+08/13/2020 02:26:25 PM: INFO:*********************** Completed Test_002_DDT_Login ***********************
+08/13/2020 02:26:25 PM: INFO:*********************** Completed Test_002_DDT_Login ***********************
+08/13/2020 02:26:29 PM: INFO:************* Test_003_AddCustomer **********
+08/13/2020 02:26:29 PM: INFO:************* Test_003_AddCustomer **********
+08/13/2020 02:26:29 PM: INFO:************* Test_003_AddCustomer **********
+08/13/2020 02:26:29 PM: INFO:************* Test_003_AddCustomer **********
+08/13/2020 02:26:29 PM: INFO:************* Test_003_AddCustomer **********
+08/13/2020 02:26:40 PM: INFO:************* Login succesful **********
+08/13/2020 02:26:40 PM: INFO:************* Login succesful **********
+08/13/2020 02:26:40 PM: INFO:************* Login succesful **********
+08/13/2020 02:26:40 PM: INFO:************* Login succesful **********
+08/13/2020 02:26:40 PM: INFO:************* Login succesful **********
+08/13/2020 02:26:40 PM: INFO:******* Starting Add Customer Test **********
+08/13/2020 02:26:40 PM: INFO:******* Starting Add Customer Test **********
+08/13/2020 02:26:40 PM: INFO:******* Starting Add Customer Test **********
+08/13/2020 02:26:40 PM: INFO:******* Starting Add Customer Test **********
+08/13/2020 02:26:40 PM: INFO:******* Starting Add Customer Test **********
+08/13/2020 02:26:46 PM: INFO:************* Providing customer info **********
+08/13/2020 02:26:46 PM: INFO:************* Providing customer info **********
+08/13/2020 02:26:46 PM: INFO:************* Providing customer info **********
+08/13/2020 02:26:46 PM: INFO:************* Providing customer info **********
+08/13/2020 02:26:46 PM: INFO:************* Providing customer info **********
+08/13/2020 02:26:59 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 02:26:59 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 02:26:59 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 02:26:59 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 02:26:59 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 02:27:13 PM: INFO:************* Login succesful **********
+08/13/2020 02:27:13 PM: INFO:************* Login succesful **********
+08/13/2020 02:27:13 PM: INFO:************* Login succesful **********
+08/13/2020 02:27:13 PM: INFO:************* Login succesful **********
+08/13/2020 02:27:13 PM: INFO:************* Login succesful **********
+08/13/2020 02:27:13 PM: INFO:******* Starting Search Customer By Email **********
+08/13/2020 02:27:13 PM: INFO:******* Starting Search Customer By Email **********
+08/13/2020 02:27:13 PM: INFO:******* Starting Search Customer By Email **********
+08/13/2020 02:27:13 PM: INFO:******* Starting Search Customer By Email **********
+08/13/2020 02:27:13 PM: INFO:******* Starting Search Customer By Email **********
+08/13/2020 02:27:15 PM: INFO:************* searching customer by emailID **********
+08/13/2020 02:27:15 PM: INFO:************* searching customer by emailID **********
+08/13/2020 02:27:15 PM: INFO:************* searching customer by emailID **********
+08/13/2020 02:27:15 PM: INFO:************* searching customer by emailID **********
+08/13/2020 02:27:15 PM: INFO:************* searching customer by emailID **********
+08/13/2020 02:27:21 PM: INFO:***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/13/2020 02:27:21 PM: INFO:***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/13/2020 02:27:21 PM: INFO:***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/13/2020 02:27:21 PM: INFO:***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/13/2020 02:27:21 PM: INFO:***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/13/2020 02:27:25 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 02:27:25 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 02:27:25 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 02:27:25 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 02:27:25 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 02:27:36 PM: INFO:************* Login succesful **********
+08/13/2020 02:27:36 PM: INFO:************* Login succesful **********
+08/13/2020 02:27:36 PM: INFO:************* Login succesful **********
+08/13/2020 02:27:36 PM: INFO:************* Login succesful **********
+08/13/2020 02:27:36 PM: INFO:************* Login succesful **********
+08/13/2020 02:27:36 PM: INFO:******* Starting Search Customer By Name **********
+08/13/2020 02:27:36 PM: INFO:******* Starting Search Customer By Name **********
+08/13/2020 02:27:36 PM: INFO:******* Starting Search Customer By Name **********
+08/13/2020 02:27:36 PM: INFO:******* Starting Search Customer By Name **********
+08/13/2020 02:27:36 PM: INFO:******* Starting Search Customer By Name **********
+08/13/2020 02:27:40 PM: INFO:************* searching customer by emailID **********
+08/13/2020 02:27:40 PM: INFO:************* searching customer by emailID **********
+08/13/2020 02:27:40 PM: INFO:************* searching customer by emailID **********
+08/13/2020 02:27:40 PM: INFO:************* searching customer by emailID **********
+08/13/2020 02:27:40 PM: INFO:************* searching customer by emailID **********
+08/13/2020 02:27:46 PM: INFO:***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/13/2020 02:27:46 PM: INFO:***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/13/2020 02:27:46 PM: INFO:***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/13/2020 02:27:46 PM: INFO:***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/13/2020 02:27:46 PM: INFO:***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/13/2020 03:37:25 PM: INFO:************* Test_003_AddCustomer **********
+08/13/2020 03:37:48 PM: INFO:************* Login succesful **********
+08/13/2020 03:37:48 PM: INFO:******* Starting Add Customer Test **********
+08/13/2020 03:38:05 PM: INFO:************* Providing customer info **********
+08/13/2020 03:48:53 PM: INFO:************* Test_003_AddCustomer **********
+08/13/2020 03:49:06 PM: INFO:************* Login succesful **********
+08/13/2020 03:49:06 PM: INFO:******* Starting Add Customer Test **********
+08/13/2020 03:49:18 PM: INFO:************* Providing customer info **********
+08/13/2020 04:35:05 PM: INFO:************* Test_003_AddCustomer **********
+08/13/2020 04:35:17 PM: INFO:************* Login succesful **********
+08/13/2020 04:35:17 PM: INFO:******* Starting Add Customer Test **********
+08/13/2020 04:35:28 PM: INFO:************* Providing customer info **********
+08/13/2020 04:36:08 PM: INFO:************* Test_003_AddCustomer **********
+08/13/2020 04:36:21 PM: INFO:************* Login succesful **********
+08/13/2020 04:36:21 PM: INFO:******* Starting Add Customer Test **********
+08/13/2020 04:36:26 PM: INFO:************* Providing customer info **********
+08/13/2020 04:37:25 PM: INFO:************* Test_003_AddCustomer **********
+08/13/2020 04:37:36 PM: INFO:************* Login succesful **********
+08/13/2020 04:37:36 PM: INFO:******* Starting Add Customer Test **********
+08/13/2020 04:37:39 PM: INFO:************* Providing customer info **********
+08/13/2020 04:39:41 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 04:39:41 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 04:39:41 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 04:39:41 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 04:39:41 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 04:39:44 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 04:39:44 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 04:39:44 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 04:39:44 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 04:39:44 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 04:39:47 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 04:39:47 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 04:39:47 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 04:39:47 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 04:39:47 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 04:39:53 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 04:39:53 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 04:39:53 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 04:39:53 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 04:39:53 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 04:39:57 PM: INFO:*********************** Test_002_DDT_Login ***********************
+08/13/2020 04:39:57 PM: INFO:*********************** Test_002_DDT_Login ***********************
+08/13/2020 04:39:57 PM: INFO:*********************** Test_002_DDT_Login ***********************
+08/13/2020 04:39:57 PM: INFO:*********************** Test_002_DDT_Login ***********************
+08/13/2020 04:39:57 PM: INFO:*********************** Test_002_DDT_Login ***********************
+08/13/2020 04:39:57 PM: INFO:*********************** Verifying Login DDT test ***********************
+08/13/2020 04:39:57 PM: INFO:*********************** Verifying Login DDT test ***********************
+08/13/2020 04:39:57 PM: INFO:*********************** Verifying Login DDT test ***********************
+08/13/2020 04:39:57 PM: INFO:*********************** Verifying Login DDT test ***********************
+08/13/2020 04:39:57 PM: INFO:*********************** Verifying Login DDT test ***********************
+08/13/2020 04:39:59 PM: INFO:******* Reading data from excel **********
+08/13/2020 04:39:59 PM: INFO:******* Reading data from excel **********
+08/13/2020 04:39:59 PM: INFO:******* Reading data from excel **********
+08/13/2020 04:39:59 PM: INFO:******* Reading data from excel **********
+08/13/2020 04:39:59 PM: INFO:******* Reading data from excel **********
+08/13/2020 04:40:12 PM: INFO:****Passed****
+08/13/2020 04:40:12 PM: INFO:****Passed****
+08/13/2020 04:40:12 PM: INFO:****Passed****
+08/13/2020 04:40:12 PM: INFO:****Passed****
+08/13/2020 04:40:12 PM: INFO:****Passed****
+08/13/2020 04:40:20 PM: INFO:****Passed****
+08/13/2020 04:40:20 PM: INFO:****Passed****
+08/13/2020 04:40:20 PM: INFO:****Passed****
+08/13/2020 04:40:20 PM: INFO:****Passed****
+08/13/2020 04:40:20 PM: INFO:****Passed****
+08/13/2020 04:40:26 PM: INFO:****Passed****
+08/13/2020 04:40:26 PM: INFO:****Passed****
+08/13/2020 04:40:26 PM: INFO:****Passed****
+08/13/2020 04:40:26 PM: INFO:****Passed****
+08/13/2020 04:40:26 PM: INFO:****Passed****
+08/13/2020 04:40:32 PM: INFO:****Passed****
+08/13/2020 04:40:32 PM: INFO:****Passed****
+08/13/2020 04:40:32 PM: INFO:****Passed****
+08/13/2020 04:40:32 PM: INFO:****Passed****
+08/13/2020 04:40:32 PM: INFO:****Passed****
+08/13/2020 04:40:32 PM: INFO:*****Login DDT test Passed*****
+08/13/2020 04:40:32 PM: INFO:*****Login DDT test Passed*****
+08/13/2020 04:40:32 PM: INFO:*****Login DDT test Passed*****
+08/13/2020 04:40:32 PM: INFO:*****Login DDT test Passed*****
+08/13/2020 04:40:32 PM: INFO:*****Login DDT test Passed*****
+08/13/2020 04:40:32 PM: INFO:*********************** End of Test_002_DDT_Login ***********************
+08/13/2020 04:40:32 PM: INFO:*********************** End of Test_002_DDT_Login ***********************
+08/13/2020 04:40:32 PM: INFO:*********************** End of Test_002_DDT_Login ***********************
+08/13/2020 04:40:32 PM: INFO:*********************** End of Test_002_DDT_Login ***********************
+08/13/2020 04:40:32 PM: INFO:*********************** End of Test_002_DDT_Login ***********************
+08/13/2020 04:40:32 PM: INFO:*********************** Completed Test_002_DDT_Login ***********************
+08/13/2020 04:40:32 PM: INFO:*********************** Completed Test_002_DDT_Login ***********************
+08/13/2020 04:40:32 PM: INFO:*********************** Completed Test_002_DDT_Login ***********************
+08/13/2020 04:40:32 PM: INFO:*********************** Completed Test_002_DDT_Login ***********************
+08/13/2020 04:40:32 PM: INFO:*********************** Completed Test_002_DDT_Login ***********************
+08/13/2020 04:40:36 PM: INFO:************* Test_003_AddCustomer **********
+08/13/2020 04:40:36 PM: INFO:************* Test_003_AddCustomer **********
+08/13/2020 04:40:36 PM: INFO:************* Test_003_AddCustomer **********
+08/13/2020 04:40:36 PM: INFO:************* Test_003_AddCustomer **********
+08/13/2020 04:40:36 PM: INFO:************* Test_003_AddCustomer **********
+08/13/2020 04:40:49 PM: INFO:************* Login succesful **********
+08/13/2020 04:40:49 PM: INFO:************* Login succesful **********
+08/13/2020 04:40:49 PM: INFO:************* Login succesful **********
+08/13/2020 04:40:49 PM: INFO:************* Login succesful **********
+08/13/2020 04:40:49 PM: INFO:************* Login succesful **********
+08/13/2020 04:40:49 PM: INFO:******* Starting Add Customer Test **********
+08/13/2020 04:40:49 PM: INFO:******* Starting Add Customer Test **********
+08/13/2020 04:40:49 PM: INFO:******* Starting Add Customer Test **********
+08/13/2020 04:40:49 PM: INFO:******* Starting Add Customer Test **********
+08/13/2020 04:40:49 PM: INFO:******* Starting Add Customer Test **********
+08/13/2020 04:40:54 PM: INFO:************* Providing customer info **********
+08/13/2020 04:40:54 PM: INFO:************* Providing customer info **********
+08/13/2020 04:40:54 PM: INFO:************* Providing customer info **********
+08/13/2020 04:40:54 PM: INFO:************* Providing customer info **********
+08/13/2020 04:40:54 PM: INFO:************* Providing customer info **********
+08/13/2020 04:40:58 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 04:40:58 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 04:40:58 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 04:40:58 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 04:40:58 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 04:41:14 PM: INFO:************* Login succesful **********
+08/13/2020 04:41:14 PM: INFO:************* Login succesful **********
+08/13/2020 04:41:14 PM: INFO:************* Login succesful **********
+08/13/2020 04:41:14 PM: INFO:************* Login succesful **********
+08/13/2020 04:41:14 PM: INFO:************* Login succesful **********
+08/13/2020 04:41:14 PM: INFO:******* Starting Search Customer By Email **********
+08/13/2020 04:41:14 PM: INFO:******* Starting Search Customer By Email **********
+08/13/2020 04:41:14 PM: INFO:******* Starting Search Customer By Email **********
+08/13/2020 04:41:14 PM: INFO:******* Starting Search Customer By Email **********
+08/13/2020 04:41:14 PM: INFO:******* Starting Search Customer By Email **********
+08/13/2020 04:41:19 PM: INFO:************* searching customer by emailID **********
+08/13/2020 04:41:19 PM: INFO:************* searching customer by emailID **********
+08/13/2020 04:41:19 PM: INFO:************* searching customer by emailID **********
+08/13/2020 04:41:19 PM: INFO:************* searching customer by emailID **********
+08/13/2020 04:41:19 PM: INFO:************* searching customer by emailID **********
+08/13/2020 04:41:25 PM: INFO:***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/13/2020 04:41:25 PM: INFO:***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/13/2020 04:41:25 PM: INFO:***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/13/2020 04:41:25 PM: INFO:***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/13/2020 04:41:25 PM: INFO:***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/13/2020 04:41:28 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 04:41:28 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 04:41:28 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 04:41:28 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 04:41:28 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 04:41:40 PM: INFO:************* Login succesful **********
+08/13/2020 04:41:40 PM: INFO:************* Login succesful **********
+08/13/2020 04:41:40 PM: INFO:************* Login succesful **********
+08/13/2020 04:41:40 PM: INFO:************* Login succesful **********
+08/13/2020 04:41:40 PM: INFO:************* Login succesful **********
+08/13/2020 04:41:40 PM: INFO:******* Starting Search Customer By Name **********
+08/13/2020 04:41:40 PM: INFO:******* Starting Search Customer By Name **********
+08/13/2020 04:41:40 PM: INFO:******* Starting Search Customer By Name **********
+08/13/2020 04:41:40 PM: INFO:******* Starting Search Customer By Name **********
+08/13/2020 04:41:40 PM: INFO:******* Starting Search Customer By Name **********
+08/13/2020 04:41:44 PM: INFO:************* searching customer by emailID **********
+08/13/2020 04:41:44 PM: INFO:************* searching customer by emailID **********
+08/13/2020 04:41:44 PM: INFO:************* searching customer by emailID **********
+08/13/2020 04:41:44 PM: INFO:************* searching customer by emailID **********
+08/13/2020 04:41:44 PM: INFO:************* searching customer by emailID **********
+08/13/2020 04:41:50 PM: INFO:***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/13/2020 04:41:50 PM: INFO:***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/13/2020 04:41:50 PM: INFO:***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/13/2020 04:41:50 PM: INFO:***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/13/2020 04:41:50 PM: INFO:***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/13/2020 04:48:56 PM: INFO:************* Test_003_AddCustomer **********
+08/13/2020 04:49:07 PM: INFO:************* Login succesful **********
+08/13/2020 04:49:07 PM: INFO:******* Starting Add Customer Test **********
+08/13/2020 04:49:13 PM: INFO:************* Providing customer info **********
+08/13/2020 05:22:55 PM: INFO:************* Test_003_AddCustomer **********
+08/13/2020 05:23:07 PM: INFO:************* Login succesful **********
+08/13/2020 05:23:07 PM: INFO:******* Starting Add Customer Test **********
+08/13/2020 05:23:12 PM: INFO:************* Providing customer info **********
+08/13/2020 08:18:27 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 08:18:27 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 08:18:27 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 08:18:27 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 08:18:27 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 08:18:47 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 08:18:47 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 08:18:47 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 08:18:47 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 08:18:47 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 08:18:48 PM: INFO:************* Test_003_AddCustomer **********
+08/13/2020 08:18:48 PM: INFO:************* Test_003_AddCustomer **********
+08/13/2020 08:18:48 PM: INFO:************* Test_003_AddCustomer **********
+08/13/2020 08:18:48 PM: INFO:************* Test_003_AddCustomer **********
+08/13/2020 08:18:48 PM: INFO:************* Test_003_AddCustomer **********
+08/13/2020 08:18:58 PM: INFO:************* Login succesful **********
+08/13/2020 08:18:58 PM: INFO:************* Login succesful **********
+08/13/2020 08:18:58 PM: INFO:************* Login succesful **********
+08/13/2020 08:18:58 PM: INFO:************* Login succesful **********
+08/13/2020 08:18:58 PM: INFO:************* Login succesful **********
+08/13/2020 08:18:58 PM: INFO:******* Starting Add Customer Test **********
+08/13/2020 08:18:58 PM: INFO:******* Starting Add Customer Test **********
+08/13/2020 08:18:58 PM: INFO:******* Starting Add Customer Test **********
+08/13/2020 08:18:58 PM: INFO:******* Starting Add Customer Test **********
+08/13/2020 08:18:58 PM: INFO:******* Starting Add Customer Test **********
+08/13/2020 08:19:09 PM: INFO:************* Providing customer info **********
+08/13/2020 08:19:09 PM: INFO:************* Providing customer info **********
+08/13/2020 08:19:09 PM: INFO:************* Providing customer info **********
+08/13/2020 08:19:09 PM: INFO:************* Providing customer info **********
+08/13/2020 08:19:09 PM: INFO:************* Providing customer info **********
+08/13/2020 08:21:51 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 08:21:51 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 08:21:51 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 08:21:51 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 08:21:51 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 08:21:54 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 08:21:54 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 08:21:54 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 08:21:54 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 08:21:54 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 08:21:56 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 08:21:56 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 08:21:56 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 08:21:56 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 08:21:56 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 08:22:06 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 08:22:06 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 08:22:06 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 08:22:06 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 08:22:06 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 08:22:08 PM: INFO:*********************** Test_002_DDT_Login ***********************
+08/13/2020 08:22:08 PM: INFO:*********************** Test_002_DDT_Login ***********************
+08/13/2020 08:22:08 PM: INFO:*********************** Test_002_DDT_Login ***********************
+08/13/2020 08:22:08 PM: INFO:*********************** Test_002_DDT_Login ***********************
+08/13/2020 08:22:08 PM: INFO:*********************** Test_002_DDT_Login ***********************
+08/13/2020 08:22:08 PM: INFO:*********************** Verifying Login DDT test ***********************
+08/13/2020 08:22:08 PM: INFO:*********************** Verifying Login DDT test ***********************
+08/13/2020 08:22:08 PM: INFO:*********************** Verifying Login DDT test ***********************
+08/13/2020 08:22:08 PM: INFO:*********************** Verifying Login DDT test ***********************
+08/13/2020 08:22:08 PM: INFO:*********************** Verifying Login DDT test ***********************
+08/13/2020 08:22:12 PM: INFO:******* Reading data from excel **********
+08/13/2020 08:22:12 PM: INFO:******* Reading data from excel **********
+08/13/2020 08:22:12 PM: INFO:******* Reading data from excel **********
+08/13/2020 08:22:12 PM: INFO:******* Reading data from excel **********
+08/13/2020 08:22:12 PM: INFO:******* Reading data from excel **********
+08/13/2020 08:22:20 PM: INFO:****Failed****
+08/13/2020 08:22:20 PM: INFO:****Failed****
+08/13/2020 08:22:20 PM: INFO:****Failed****
+08/13/2020 08:22:20 PM: INFO:****Failed****
+08/13/2020 08:22:20 PM: INFO:****Failed****
+08/13/2020 08:22:22 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 08:22:22 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 08:22:22 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 08:22:22 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 08:22:22 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 08:22:34 PM: INFO:************* Login succesful **********
+08/13/2020 08:22:34 PM: INFO:************* Login succesful **********
+08/13/2020 08:22:34 PM: INFO:************* Login succesful **********
+08/13/2020 08:22:34 PM: INFO:************* Login succesful **********
+08/13/2020 08:22:34 PM: INFO:************* Login succesful **********
+08/13/2020 08:22:34 PM: INFO:******* Starting Search Customer By Email **********
+08/13/2020 08:22:34 PM: INFO:******* Starting Search Customer By Email **********
+08/13/2020 08:22:34 PM: INFO:******* Starting Search Customer By Email **********
+08/13/2020 08:22:34 PM: INFO:******* Starting Search Customer By Email **********
+08/13/2020 08:22:34 PM: INFO:******* Starting Search Customer By Email **********
+08/13/2020 08:22:42 PM: INFO:************* searching customer by emailID **********
+08/13/2020 08:22:42 PM: INFO:************* searching customer by emailID **********
+08/13/2020 08:22:42 PM: INFO:************* searching customer by emailID **********
+08/13/2020 08:22:42 PM: INFO:************* searching customer by emailID **********
+08/13/2020 08:22:42 PM: INFO:************* searching customer by emailID **********
+08/13/2020 08:22:51 PM: INFO:***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/13/2020 08:22:51 PM: INFO:***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/13/2020 08:22:51 PM: INFO:***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/13/2020 08:22:51 PM: INFO:***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/13/2020 08:22:51 PM: INFO:***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/13/2020 08:22:53 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 08:22:53 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 08:22:53 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 08:22:53 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 08:22:53 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 08:23:02 PM: INFO:************* Login succesful **********
+08/13/2020 08:23:02 PM: INFO:************* Login succesful **********
+08/13/2020 08:23:02 PM: INFO:************* Login succesful **********
+08/13/2020 08:23:02 PM: INFO:************* Login succesful **********
+08/13/2020 08:23:02 PM: INFO:************* Login succesful **********
+08/13/2020 08:23:02 PM: INFO:******* Starting Search Customer By Name **********
+08/13/2020 08:23:02 PM: INFO:******* Starting Search Customer By Name **********
+08/13/2020 08:23:02 PM: INFO:******* Starting Search Customer By Name **********
+08/13/2020 08:23:02 PM: INFO:******* Starting Search Customer By Name **********
+08/13/2020 08:23:02 PM: INFO:******* Starting Search Customer By Name **********
+08/13/2020 08:23:11 PM: INFO:************* searching customer by emailID **********
+08/13/2020 08:23:11 PM: INFO:************* searching customer by emailID **********
+08/13/2020 08:23:11 PM: INFO:************* searching customer by emailID **********
+08/13/2020 08:23:11 PM: INFO:************* searching customer by emailID **********
+08/13/2020 08:23:11 PM: INFO:************* searching customer by emailID **********
+08/13/2020 08:23:21 PM: INFO:***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/13/2020 08:23:21 PM: INFO:***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/13/2020 08:23:21 PM: INFO:***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/13/2020 08:23:21 PM: INFO:***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/13/2020 08:23:21 PM: INFO:***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/13/2020 08:39:12 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 08:39:12 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 08:39:12 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 08:39:12 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 08:39:12 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 08:39:17 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 08:39:17 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 08:39:17 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 08:39:17 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 08:39:17 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 08:39:20 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 08:39:20 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 08:39:20 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 08:39:20 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 08:39:20 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 08:39:33 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 08:39:33 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 08:39:33 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 08:39:33 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 08:39:33 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 08:39:37 PM: INFO:*********************** Test_002_DDT_Login ***********************
+08/13/2020 08:39:37 PM: INFO:*********************** Test_002_DDT_Login ***********************
+08/13/2020 08:39:37 PM: INFO:*********************** Test_002_DDT_Login ***********************
+08/13/2020 08:39:37 PM: INFO:*********************** Test_002_DDT_Login ***********************
+08/13/2020 08:39:37 PM: INFO:*********************** Test_002_DDT_Login ***********************
+08/13/2020 08:39:37 PM: INFO:*********************** Verifying Login DDT test ***********************
+08/13/2020 08:39:37 PM: INFO:*********************** Verifying Login DDT test ***********************
+08/13/2020 08:39:37 PM: INFO:*********************** Verifying Login DDT test ***********************
+08/13/2020 08:39:37 PM: INFO:*********************** Verifying Login DDT test ***********************
+08/13/2020 08:39:37 PM: INFO:*********************** Verifying Login DDT test ***********************
+08/13/2020 08:39:41 PM: INFO:******* Reading data from excel **********
+08/13/2020 08:39:41 PM: INFO:******* Reading data from excel **********
+08/13/2020 08:39:41 PM: INFO:******* Reading data from excel **********
+08/13/2020 08:39:41 PM: INFO:******* Reading data from excel **********
+08/13/2020 08:39:41 PM: INFO:******* Reading data from excel **********
+08/13/2020 08:39:53 PM: INFO:****Passed****
+08/13/2020 08:39:53 PM: INFO:****Passed****
+08/13/2020 08:39:53 PM: INFO:****Passed****
+08/13/2020 08:39:53 PM: INFO:****Passed****
+08/13/2020 08:39:53 PM: INFO:****Passed****
+08/13/2020 08:40:04 PM: INFO:****Passed****
+08/13/2020 08:40:04 PM: INFO:****Passed****
+08/13/2020 08:40:04 PM: INFO:****Passed****
+08/13/2020 08:40:04 PM: INFO:****Passed****
+08/13/2020 08:40:04 PM: INFO:****Passed****
+08/13/2020 08:40:10 PM: INFO:****Passed****
+08/13/2020 08:40:10 PM: INFO:****Passed****
+08/13/2020 08:40:10 PM: INFO:****Passed****
+08/13/2020 08:40:10 PM: INFO:****Passed****
+08/13/2020 08:40:10 PM: INFO:****Passed****
+08/13/2020 08:40:17 PM: INFO:****Passed****
+08/13/2020 08:40:17 PM: INFO:****Passed****
+08/13/2020 08:40:17 PM: INFO:****Passed****
+08/13/2020 08:40:17 PM: INFO:****Passed****
+08/13/2020 08:40:17 PM: INFO:****Passed****
+08/13/2020 08:40:17 PM: INFO:*****Login DDT test Passed*****
+08/13/2020 08:40:17 PM: INFO:*****Login DDT test Passed*****
+08/13/2020 08:40:17 PM: INFO:*****Login DDT test Passed*****
+08/13/2020 08:40:17 PM: INFO:*****Login DDT test Passed*****
+08/13/2020 08:40:17 PM: INFO:*****Login DDT test Passed*****
+08/13/2020 08:40:17 PM: INFO:*********************** End of Test_002_DDT_Login ***********************
+08/13/2020 08:40:17 PM: INFO:*********************** End of Test_002_DDT_Login ***********************
+08/13/2020 08:40:17 PM: INFO:*********************** End of Test_002_DDT_Login ***********************
+08/13/2020 08:40:17 PM: INFO:*********************** End of Test_002_DDT_Login ***********************
+08/13/2020 08:40:17 PM: INFO:*********************** End of Test_002_DDT_Login ***********************
+08/13/2020 08:40:17 PM: INFO:*********************** Completed Test_002_DDT_Login ***********************
+08/13/2020 08:40:17 PM: INFO:*********************** Completed Test_002_DDT_Login ***********************
+08/13/2020 08:40:17 PM: INFO:*********************** Completed Test_002_DDT_Login ***********************
+08/13/2020 08:40:17 PM: INFO:*********************** Completed Test_002_DDT_Login ***********************
+08/13/2020 08:40:17 PM: INFO:*********************** Completed Test_002_DDT_Login ***********************
+08/13/2020 08:40:21 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 08:40:21 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 08:40:21 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 08:40:21 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 08:40:21 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 08:40:36 PM: INFO:************* Login succesful **********
+08/13/2020 08:40:36 PM: INFO:************* Login succesful **********
+08/13/2020 08:40:36 PM: INFO:************* Login succesful **********
+08/13/2020 08:40:36 PM: INFO:************* Login succesful **********
+08/13/2020 08:40:36 PM: INFO:************* Login succesful **********
+08/13/2020 08:40:36 PM: INFO:******* Starting Search Customer By Email **********
+08/13/2020 08:40:36 PM: INFO:******* Starting Search Customer By Email **********
+08/13/2020 08:40:36 PM: INFO:******* Starting Search Customer By Email **********
+08/13/2020 08:40:36 PM: INFO:******* Starting Search Customer By Email **********
+08/13/2020 08:40:36 PM: INFO:******* Starting Search Customer By Email **********
+08/13/2020 08:40:41 PM: INFO:************* searching customer by emailID **********
+08/13/2020 08:40:41 PM: INFO:************* searching customer by emailID **********
+08/13/2020 08:40:41 PM: INFO:************* searching customer by emailID **********
+08/13/2020 08:40:41 PM: INFO:************* searching customer by emailID **********
+08/13/2020 08:40:41 PM: INFO:************* searching customer by emailID **********
+08/13/2020 08:40:46 PM: INFO:***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/13/2020 08:40:46 PM: INFO:***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/13/2020 08:40:46 PM: INFO:***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/13/2020 08:40:46 PM: INFO:***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/13/2020 08:40:46 PM: INFO:***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/13/2020 08:40:50 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 08:40:50 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 08:40:50 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 08:40:50 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 08:40:50 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 08:41:04 PM: INFO:************* Login succesful **********
+08/13/2020 08:41:04 PM: INFO:************* Login succesful **********
+08/13/2020 08:41:04 PM: INFO:************* Login succesful **********
+08/13/2020 08:41:04 PM: INFO:************* Login succesful **********
+08/13/2020 08:41:04 PM: INFO:************* Login succesful **********
+08/13/2020 08:41:04 PM: INFO:******* Starting Search Customer By Name **********
+08/13/2020 08:41:04 PM: INFO:******* Starting Search Customer By Name **********
+08/13/2020 08:41:04 PM: INFO:******* Starting Search Customer By Name **********
+08/13/2020 08:41:04 PM: INFO:******* Starting Search Customer By Name **********
+08/13/2020 08:41:04 PM: INFO:******* Starting Search Customer By Name **********
+08/13/2020 08:41:07 PM: INFO:************* searching customer by emailID **********
+08/13/2020 08:41:07 PM: INFO:************* searching customer by emailID **********
+08/13/2020 08:41:07 PM: INFO:************* searching customer by emailID **********
+08/13/2020 08:41:07 PM: INFO:************* searching customer by emailID **********
+08/13/2020 08:41:07 PM: INFO:************* searching customer by emailID **********
+08/13/2020 08:41:12 PM: INFO:***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/13/2020 08:41:12 PM: INFO:***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/13/2020 08:41:12 PM: INFO:***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/13/2020 08:41:12 PM: INFO:***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/13/2020 08:41:12 PM: INFO:***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/13/2020 08:47:33 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 08:47:33 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 08:47:33 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 08:47:33 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 08:47:33 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 08:47:38 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 08:47:38 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 08:47:38 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 08:47:38 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 08:47:38 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 08:47:42 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 08:47:42 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 08:47:42 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 08:47:42 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 08:47:42 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 08:47:55 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 08:47:55 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 08:47:55 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 08:47:55 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 08:47:55 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 08:47:58 PM: INFO:*********************** Test_002_DDT_Login ***********************
+08/13/2020 08:47:58 PM: INFO:*********************** Test_002_DDT_Login ***********************
+08/13/2020 08:47:58 PM: INFO:*********************** Test_002_DDT_Login ***********************
+08/13/2020 08:47:58 PM: INFO:*********************** Test_002_DDT_Login ***********************
+08/13/2020 08:47:58 PM: INFO:*********************** Test_002_DDT_Login ***********************
+08/13/2020 08:47:58 PM: INFO:*********************** Verifying Login DDT test ***********************
+08/13/2020 08:47:58 PM: INFO:*********************** Verifying Login DDT test ***********************
+08/13/2020 08:47:58 PM: INFO:*********************** Verifying Login DDT test ***********************
+08/13/2020 08:47:58 PM: INFO:*********************** Verifying Login DDT test ***********************
+08/13/2020 08:47:58 PM: INFO:*********************** Verifying Login DDT test ***********************
+08/13/2020 08:48:03 PM: INFO:******* Reading data from excel **********
+08/13/2020 08:48:03 PM: INFO:******* Reading data from excel **********
+08/13/2020 08:48:03 PM: INFO:******* Reading data from excel **********
+08/13/2020 08:48:03 PM: INFO:******* Reading data from excel **********
+08/13/2020 08:48:03 PM: INFO:******* Reading data from excel **********
+08/13/2020 08:48:14 PM: INFO:****Passed****
+08/13/2020 08:48:14 PM: INFO:****Passed****
+08/13/2020 08:48:14 PM: INFO:****Passed****
+08/13/2020 08:48:14 PM: INFO:****Passed****
+08/13/2020 08:48:14 PM: INFO:****Passed****
+08/13/2020 08:48:24 PM: INFO:****Passed****
+08/13/2020 08:48:24 PM: INFO:****Passed****
+08/13/2020 08:48:24 PM: INFO:****Passed****
+08/13/2020 08:48:24 PM: INFO:****Passed****
+08/13/2020 08:48:24 PM: INFO:****Passed****
+08/13/2020 08:48:31 PM: INFO:****Passed****
+08/13/2020 08:48:31 PM: INFO:****Passed****
+08/13/2020 08:48:31 PM: INFO:****Passed****
+08/13/2020 08:48:31 PM: INFO:****Passed****
+08/13/2020 08:48:31 PM: INFO:****Passed****
+08/13/2020 08:48:38 PM: INFO:****Passed****
+08/13/2020 08:48:38 PM: INFO:****Passed****
+08/13/2020 08:48:38 PM: INFO:****Passed****
+08/13/2020 08:48:38 PM: INFO:****Passed****
+08/13/2020 08:48:38 PM: INFO:****Passed****
+08/13/2020 08:48:38 PM: INFO:*****Login DDT test Passed*****
+08/13/2020 08:48:38 PM: INFO:*****Login DDT test Passed*****
+08/13/2020 08:48:38 PM: INFO:*****Login DDT test Passed*****
+08/13/2020 08:48:38 PM: INFO:*****Login DDT test Passed*****
+08/13/2020 08:48:38 PM: INFO:*****Login DDT test Passed*****
+08/13/2020 08:48:38 PM: INFO:*********************** End of Test_002_DDT_Login ***********************
+08/13/2020 08:48:38 PM: INFO:*********************** End of Test_002_DDT_Login ***********************
+08/13/2020 08:48:38 PM: INFO:*********************** End of Test_002_DDT_Login ***********************
+08/13/2020 08:48:38 PM: INFO:*********************** End of Test_002_DDT_Login ***********************
+08/13/2020 08:48:38 PM: INFO:*********************** End of Test_002_DDT_Login ***********************
+08/13/2020 08:48:38 PM: INFO:*********************** Completed Test_002_DDT_Login ***********************
+08/13/2020 08:48:38 PM: INFO:*********************** Completed Test_002_DDT_Login ***********************
+08/13/2020 08:48:38 PM: INFO:*********************** Completed Test_002_DDT_Login ***********************
+08/13/2020 08:48:38 PM: INFO:*********************** Completed Test_002_DDT_Login ***********************
+08/13/2020 08:48:38 PM: INFO:*********************** Completed Test_002_DDT_Login ***********************
+08/13/2020 08:48:42 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 08:48:42 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 08:48:42 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 08:48:42 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 08:48:42 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 08:48:56 PM: INFO:************* Login succesful **********
+08/13/2020 08:48:56 PM: INFO:************* Login succesful **********
+08/13/2020 08:48:56 PM: INFO:************* Login succesful **********
+08/13/2020 08:48:56 PM: INFO:************* Login succesful **********
+08/13/2020 08:48:56 PM: INFO:************* Login succesful **********
+08/13/2020 08:48:56 PM: INFO:******* Starting Search Customer By Email **********
+08/13/2020 08:48:56 PM: INFO:******* Starting Search Customer By Email **********
+08/13/2020 08:48:56 PM: INFO:******* Starting Search Customer By Email **********
+08/13/2020 08:48:56 PM: INFO:******* Starting Search Customer By Email **********
+08/13/2020 08:48:56 PM: INFO:******* Starting Search Customer By Email **********
+08/13/2020 08:49:00 PM: INFO:************* searching customer by emailID **********
+08/13/2020 08:49:00 PM: INFO:************* searching customer by emailID **********
+08/13/2020 08:49:00 PM: INFO:************* searching customer by emailID **********
+08/13/2020 08:49:00 PM: INFO:************* searching customer by emailID **********
+08/13/2020 08:49:00 PM: INFO:************* searching customer by emailID **********
+08/13/2020 08:49:06 PM: INFO:***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/13/2020 08:49:06 PM: INFO:***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/13/2020 08:49:06 PM: INFO:***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/13/2020 08:49:06 PM: INFO:***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/13/2020 08:49:06 PM: INFO:***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/13/2020 08:49:09 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 08:49:09 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 08:49:09 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 08:49:09 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 08:49:09 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 08:49:22 PM: INFO:************* Login succesful **********
+08/13/2020 08:49:22 PM: INFO:************* Login succesful **********
+08/13/2020 08:49:22 PM: INFO:************* Login succesful **********
+08/13/2020 08:49:22 PM: INFO:************* Login succesful **********
+08/13/2020 08:49:22 PM: INFO:************* Login succesful **********
+08/13/2020 08:49:22 PM: INFO:******* Starting Search Customer By Name **********
+08/13/2020 08:49:22 PM: INFO:******* Starting Search Customer By Name **********
+08/13/2020 08:49:22 PM: INFO:******* Starting Search Customer By Name **********
+08/13/2020 08:49:22 PM: INFO:******* Starting Search Customer By Name **********
+08/13/2020 08:49:22 PM: INFO:******* Starting Search Customer By Name **********
+08/13/2020 08:49:26 PM: INFO:************* searching customer by emailID **********
+08/13/2020 08:49:26 PM: INFO:************* searching customer by emailID **********
+08/13/2020 08:49:26 PM: INFO:************* searching customer by emailID **********
+08/13/2020 08:49:26 PM: INFO:************* searching customer by emailID **********
+08/13/2020 08:49:26 PM: INFO:************* searching customer by emailID **********
+08/13/2020 08:49:32 PM: INFO:***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/13/2020 08:49:32 PM: INFO:***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/13/2020 08:49:32 PM: INFO:***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/13/2020 08:49:32 PM: INFO:***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/13/2020 08:49:32 PM: INFO:***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/13/2020 09:18:47 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 09:18:47 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 09:18:47 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 09:18:47 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 09:18:47 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 09:18:52 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 09:18:52 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 09:18:52 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 09:18:52 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 09:18:52 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 09:18:56 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 09:18:56 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 09:18:56 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 09:18:56 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 09:18:56 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 09:19:07 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 09:19:07 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 09:19:07 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 09:19:07 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 09:19:07 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 09:19:11 PM: INFO:*********************** Test_002_DDT_Login ***********************
+08/13/2020 09:19:11 PM: INFO:*********************** Test_002_DDT_Login ***********************
+08/13/2020 09:19:11 PM: INFO:*********************** Test_002_DDT_Login ***********************
+08/13/2020 09:19:11 PM: INFO:*********************** Test_002_DDT_Login ***********************
+08/13/2020 09:19:11 PM: INFO:*********************** Test_002_DDT_Login ***********************
+08/13/2020 09:19:11 PM: INFO:*********************** Verifying Login DDT test ***********************
+08/13/2020 09:19:11 PM: INFO:*********************** Verifying Login DDT test ***********************
+08/13/2020 09:19:11 PM: INFO:*********************** Verifying Login DDT test ***********************
+08/13/2020 09:19:11 PM: INFO:*********************** Verifying Login DDT test ***********************
+08/13/2020 09:19:11 PM: INFO:*********************** Verifying Login DDT test ***********************
+08/13/2020 09:19:15 PM: INFO:******* Reading data from excel **********
+08/13/2020 09:19:15 PM: INFO:******* Reading data from excel **********
+08/13/2020 09:19:15 PM: INFO:******* Reading data from excel **********
+08/13/2020 09:19:15 PM: INFO:******* Reading data from excel **********
+08/13/2020 09:19:15 PM: INFO:******* Reading data from excel **********
+08/13/2020 09:19:28 PM: INFO:****Passed****
+08/13/2020 09:19:28 PM: INFO:****Passed****
+08/13/2020 09:19:28 PM: INFO:****Passed****
+08/13/2020 09:19:28 PM: INFO:****Passed****
+08/13/2020 09:19:28 PM: INFO:****Passed****
+08/13/2020 09:19:37 PM: INFO:****Passed****
+08/13/2020 09:19:37 PM: INFO:****Passed****
+08/13/2020 09:19:37 PM: INFO:****Passed****
+08/13/2020 09:19:37 PM: INFO:****Passed****
+08/13/2020 09:19:37 PM: INFO:****Passed****
+08/13/2020 09:19:44 PM: INFO:****Passed****
+08/13/2020 09:19:44 PM: INFO:****Passed****
+08/13/2020 09:19:44 PM: INFO:****Passed****
+08/13/2020 09:19:44 PM: INFO:****Passed****
+08/13/2020 09:19:44 PM: INFO:****Passed****
+08/13/2020 09:19:51 PM: INFO:****Passed****
+08/13/2020 09:19:51 PM: INFO:****Passed****
+08/13/2020 09:19:51 PM: INFO:****Passed****
+08/13/2020 09:19:51 PM: INFO:****Passed****
+08/13/2020 09:19:51 PM: INFO:****Passed****
+08/13/2020 09:19:51 PM: INFO:*****Login DDT test Passed*****
+08/13/2020 09:19:51 PM: INFO:*****Login DDT test Passed*****
+08/13/2020 09:19:51 PM: INFO:*****Login DDT test Passed*****
+08/13/2020 09:19:51 PM: INFO:*****Login DDT test Passed*****
+08/13/2020 09:19:51 PM: INFO:*****Login DDT test Passed*****
+08/13/2020 09:19:51 PM: INFO:*********************** End of Test_002_DDT_Login ***********************
+08/13/2020 09:19:51 PM: INFO:*********************** End of Test_002_DDT_Login ***********************
+08/13/2020 09:19:51 PM: INFO:*********************** End of Test_002_DDT_Login ***********************
+08/13/2020 09:19:51 PM: INFO:*********************** End of Test_002_DDT_Login ***********************
+08/13/2020 09:19:51 PM: INFO:*********************** End of Test_002_DDT_Login ***********************
+08/13/2020 09:19:51 PM: INFO:*********************** Completed Test_002_DDT_Login ***********************
+08/13/2020 09:19:51 PM: INFO:*********************** Completed Test_002_DDT_Login ***********************
+08/13/2020 09:19:51 PM: INFO:*********************** Completed Test_002_DDT_Login ***********************
+08/13/2020 09:19:51 PM: INFO:*********************** Completed Test_002_DDT_Login ***********************
+08/13/2020 09:19:51 PM: INFO:*********************** Completed Test_002_DDT_Login ***********************
+08/13/2020 09:19:55 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 09:19:55 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 09:19:55 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 09:19:55 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 09:19:55 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 09:20:06 PM: INFO:************* Login succesful **********
+08/13/2020 09:20:06 PM: INFO:************* Login succesful **********
+08/13/2020 09:20:06 PM: INFO:************* Login succesful **********
+08/13/2020 09:20:06 PM: INFO:************* Login succesful **********
+08/13/2020 09:20:06 PM: INFO:************* Login succesful **********
+08/13/2020 09:20:06 PM: INFO:******* Starting Search Customer By Email **********
+08/13/2020 09:20:06 PM: INFO:******* Starting Search Customer By Email **********
+08/13/2020 09:20:06 PM: INFO:******* Starting Search Customer By Email **********
+08/13/2020 09:20:06 PM: INFO:******* Starting Search Customer By Email **********
+08/13/2020 09:20:06 PM: INFO:******* Starting Search Customer By Email **********
+08/13/2020 09:20:12 PM: INFO:************* searching customer by emailID **********
+08/13/2020 09:20:12 PM: INFO:************* searching customer by emailID **********
+08/13/2020 09:20:12 PM: INFO:************* searching customer by emailID **********
+08/13/2020 09:20:12 PM: INFO:************* searching customer by emailID **********
+08/13/2020 09:20:12 PM: INFO:************* searching customer by emailID **********
+08/13/2020 09:20:18 PM: INFO:***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/13/2020 09:20:18 PM: INFO:***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/13/2020 09:20:18 PM: INFO:***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/13/2020 09:20:18 PM: INFO:***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/13/2020 09:20:18 PM: INFO:***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/13/2020 09:20:21 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 09:20:21 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 09:20:21 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 09:20:21 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 09:20:21 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 09:20:34 PM: INFO:************* Login succesful **********
+08/13/2020 09:20:34 PM: INFO:************* Login succesful **********
+08/13/2020 09:20:34 PM: INFO:************* Login succesful **********
+08/13/2020 09:20:34 PM: INFO:************* Login succesful **********
+08/13/2020 09:20:34 PM: INFO:************* Login succesful **********
+08/13/2020 09:20:34 PM: INFO:******* Starting Search Customer By Name **********
+08/13/2020 09:20:34 PM: INFO:******* Starting Search Customer By Name **********
+08/13/2020 09:20:34 PM: INFO:******* Starting Search Customer By Name **********
+08/13/2020 09:20:34 PM: INFO:******* Starting Search Customer By Name **********
+08/13/2020 09:20:34 PM: INFO:******* Starting Search Customer By Name **********
+08/13/2020 09:20:38 PM: INFO:************* searching customer by emailID **********
+08/13/2020 09:20:38 PM: INFO:************* searching customer by emailID **********
+08/13/2020 09:20:38 PM: INFO:************* searching customer by emailID **********
+08/13/2020 09:20:38 PM: INFO:************* searching customer by emailID **********
+08/13/2020 09:20:38 PM: INFO:************* searching customer by emailID **********
+08/13/2020 09:20:44 PM: INFO:***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/13/2020 09:20:44 PM: INFO:***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/13/2020 09:20:44 PM: INFO:***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/13/2020 09:20:44 PM: INFO:***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/13/2020 09:20:44 PM: INFO:***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/13/2020 09:24:02 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 09:24:02 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 09:24:02 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 09:24:02 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 09:24:02 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 09:24:07 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 09:24:07 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 09:24:07 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 09:24:07 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 09:24:07 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 09:39:21 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 09:39:21 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 09:39:21 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 09:39:21 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 09:39:21 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 09:39:27 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 09:39:27 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 09:39:27 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 09:39:27 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 09:39:27 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 09:39:30 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 09:39:30 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 09:39:30 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 09:39:30 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 09:39:30 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 09:39:42 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 09:39:42 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 09:39:42 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 09:39:42 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 09:39:42 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 09:39:45 PM: INFO:*********************** Test_002_DDT_Login ***********************
+08/13/2020 09:39:45 PM: INFO:*********************** Test_002_DDT_Login ***********************
+08/13/2020 09:39:45 PM: INFO:*********************** Test_002_DDT_Login ***********************
+08/13/2020 09:39:45 PM: INFO:*********************** Test_002_DDT_Login ***********************
+08/13/2020 09:39:45 PM: INFO:*********************** Test_002_DDT_Login ***********************
+08/13/2020 09:39:45 PM: INFO:*********************** Verifying Login DDT test ***********************
+08/13/2020 09:39:45 PM: INFO:*********************** Verifying Login DDT test ***********************
+08/13/2020 09:39:45 PM: INFO:*********************** Verifying Login DDT test ***********************
+08/13/2020 09:39:45 PM: INFO:*********************** Verifying Login DDT test ***********************
+08/13/2020 09:39:45 PM: INFO:*********************** Verifying Login DDT test ***********************
+08/13/2020 09:39:49 PM: INFO:******* Reading data from excel **********
+08/13/2020 09:39:49 PM: INFO:******* Reading data from excel **********
+08/13/2020 09:39:49 PM: INFO:******* Reading data from excel **********
+08/13/2020 09:39:49 PM: INFO:******* Reading data from excel **********
+08/13/2020 09:39:49 PM: INFO:******* Reading data from excel **********
+08/13/2020 09:40:02 PM: INFO:****Passed****
+08/13/2020 09:40:02 PM: INFO:****Passed****
+08/13/2020 09:40:02 PM: INFO:****Passed****
+08/13/2020 09:40:02 PM: INFO:****Passed****
+08/13/2020 09:40:02 PM: INFO:****Passed****
+08/13/2020 09:40:12 PM: INFO:****Passed****
+08/13/2020 09:40:12 PM: INFO:****Passed****
+08/13/2020 09:40:12 PM: INFO:****Passed****
+08/13/2020 09:40:12 PM: INFO:****Passed****
+08/13/2020 09:40:12 PM: INFO:****Passed****
+08/13/2020 09:40:18 PM: INFO:****Passed****
+08/13/2020 09:40:18 PM: INFO:****Passed****
+08/13/2020 09:40:18 PM: INFO:****Passed****
+08/13/2020 09:40:18 PM: INFO:****Passed****
+08/13/2020 09:40:18 PM: INFO:****Passed****
+08/13/2020 09:40:25 PM: INFO:****Passed****
+08/13/2020 09:40:25 PM: INFO:****Passed****
+08/13/2020 09:40:25 PM: INFO:****Passed****
+08/13/2020 09:40:25 PM: INFO:****Passed****
+08/13/2020 09:40:25 PM: INFO:****Passed****
+08/13/2020 09:40:25 PM: INFO:*****Login DDT test Passed*****
+08/13/2020 09:40:25 PM: INFO:*****Login DDT test Passed*****
+08/13/2020 09:40:25 PM: INFO:*****Login DDT test Passed*****
+08/13/2020 09:40:25 PM: INFO:*****Login DDT test Passed*****
+08/13/2020 09:40:25 PM: INFO:*****Login DDT test Passed*****
+08/13/2020 09:40:25 PM: INFO:*********************** End of Test_002_DDT_Login ***********************
+08/13/2020 09:40:25 PM: INFO:*********************** End of Test_002_DDT_Login ***********************
+08/13/2020 09:40:25 PM: INFO:*********************** End of Test_002_DDT_Login ***********************
+08/13/2020 09:40:25 PM: INFO:*********************** End of Test_002_DDT_Login ***********************
+08/13/2020 09:40:25 PM: INFO:*********************** End of Test_002_DDT_Login ***********************
+08/13/2020 09:40:25 PM: INFO:*********************** Completed Test_002_DDT_Login ***********************
+08/13/2020 09:40:25 PM: INFO:*********************** Completed Test_002_DDT_Login ***********************
+08/13/2020 09:40:25 PM: INFO:*********************** Completed Test_002_DDT_Login ***********************
+08/13/2020 09:40:25 PM: INFO:*********************** Completed Test_002_DDT_Login ***********************
+08/13/2020 09:40:25 PM: INFO:*********************** Completed Test_002_DDT_Login ***********************
+08/13/2020 09:40:29 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 09:40:29 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 09:40:29 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 09:40:29 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 09:40:29 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 09:40:42 PM: INFO:************* Login succesful **********
+08/13/2020 09:40:42 PM: INFO:************* Login succesful **********
+08/13/2020 09:40:42 PM: INFO:************* Login succesful **********
+08/13/2020 09:40:42 PM: INFO:************* Login succesful **********
+08/13/2020 09:40:42 PM: INFO:************* Login succesful **********
+08/13/2020 09:40:42 PM: INFO:******* Starting Search Customer By Email **********
+08/13/2020 09:40:42 PM: INFO:******* Starting Search Customer By Email **********
+08/13/2020 09:40:42 PM: INFO:******* Starting Search Customer By Email **********
+08/13/2020 09:40:42 PM: INFO:******* Starting Search Customer By Email **********
+08/13/2020 09:40:42 PM: INFO:******* Starting Search Customer By Email **********
+08/13/2020 09:40:44 PM: INFO:************* searching customer by emailID **********
+08/13/2020 09:40:44 PM: INFO:************* searching customer by emailID **********
+08/13/2020 09:40:44 PM: INFO:************* searching customer by emailID **********
+08/13/2020 09:40:44 PM: INFO:************* searching customer by emailID **********
+08/13/2020 09:40:44 PM: INFO:************* searching customer by emailID **********
+08/13/2020 09:40:50 PM: INFO:***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/13/2020 09:40:50 PM: INFO:***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/13/2020 09:40:50 PM: INFO:***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/13/2020 09:40:50 PM: INFO:***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/13/2020 09:40:50 PM: INFO:***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/13/2020 09:40:54 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 09:40:54 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 09:40:54 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 09:40:54 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 09:40:54 PM: INFO:************* SearchCustomerByEmail_004 **********
+08/13/2020 09:41:58 PM: INFO:************* Login succesful **********
+08/13/2020 09:41:58 PM: INFO:************* Login succesful **********
+08/13/2020 09:41:58 PM: INFO:************* Login succesful **********
+08/13/2020 09:41:58 PM: INFO:************* Login succesful **********
+08/13/2020 09:41:58 PM: INFO:************* Login succesful **********
+08/13/2020 09:41:58 PM: INFO:******* Starting Search Customer By Name **********
+08/13/2020 09:41:58 PM: INFO:******* Starting Search Customer By Name **********
+08/13/2020 09:41:58 PM: INFO:******* Starting Search Customer By Name **********
+08/13/2020 09:41:58 PM: INFO:******* Starting Search Customer By Name **********
+08/13/2020 09:41:58 PM: INFO:******* Starting Search Customer By Name **********
+08/13/2020 09:42:01 PM: INFO:************* searching customer by emailID **********
+08/13/2020 09:42:01 PM: INFO:************* searching customer by emailID **********
+08/13/2020 09:42:01 PM: INFO:************* searching customer by emailID **********
+08/13/2020 09:42:01 PM: INFO:************* searching customer by emailID **********
+08/13/2020 09:42:01 PM: INFO:************* searching customer by emailID **********
+08/13/2020 09:42:06 PM: INFO:***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/13/2020 09:42:06 PM: INFO:***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/13/2020 09:42:06 PM: INFO:***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/13/2020 09:42:06 PM: INFO:***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/13/2020 09:42:06 PM: INFO:***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/13/2020 09:44:59 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 09:45:11 PM: INFO:***********************End of test_Login ***********************
+08/13/2020 09:50:18 PM: INFO:************* Test_003_AddCustomer **********
+08/13/2020 09:50:32 PM: INFO:************* Login succesful **********
+08/13/2020 09:50:32 PM: INFO:******* Starting Add Customer Test **********
+08/13/2020 09:50:39 PM: INFO:************* Providing customer info **********
+08/13/2020 10:39:43 PM: INFO:*********************** Start of test_Login ***********************
+08/13/2020 10:39:43 PM: INFO:*********************** Start of test_homePageTitle ***********************
+08/13/2020 10:39:49 PM: INFO:***********************End of test_homePageTitle ***********************
+08/13/2020 10:39:58 PM: INFO:***********************End of test_Login ***********************
+08/14/2020 02:27:11 PM: INFO:*********************** Start of test_Login ***********************
+08/14/2020 02:27:11 PM: INFO:*********************** Start of test_Login ***********************
+08/14/2020 02:27:11 PM: INFO:*********************** Start of test_Login ***********************
+08/14/2020 02:27:11 PM: INFO:*********************** Start of test_Login ***********************
+08/14/2020 02:27:11 PM: INFO:*********************** Start of test_Login ***********************
+08/14/2020 02:27:29 PM: INFO:***********************End of test_Login ***********************
+08/14/2020 02:27:29 PM: INFO:***********************End of test_Login ***********************
+08/14/2020 02:27:29 PM: INFO:***********************End of test_Login ***********************
+08/14/2020 02:27:29 PM: INFO:***********************End of test_Login ***********************
+08/14/2020 02:27:29 PM: INFO:***********************End of test_Login ***********************
+08/14/2020 02:27:33 PM: INFO:************* Test_003_AddCustomer **********
+08/14/2020 02:27:33 PM: INFO:************* Test_003_AddCustomer **********
+08/14/2020 02:27:33 PM: INFO:************* Test_003_AddCustomer **********
+08/14/2020 02:27:33 PM: INFO:************* Test_003_AddCustomer **********
+08/14/2020 02:27:33 PM: INFO:************* Test_003_AddCustomer **********
+08/14/2020 02:27:48 PM: INFO:************* Login succesful **********
+08/14/2020 02:27:48 PM: INFO:************* Login succesful **********
+08/14/2020 02:27:48 PM: INFO:************* Login succesful **********
+08/14/2020 02:27:48 PM: INFO:************* Login succesful **********
+08/14/2020 02:27:48 PM: INFO:************* Login succesful **********
+08/14/2020 02:27:48 PM: INFO:******* Starting Add Customer Test **********
+08/14/2020 02:27:48 PM: INFO:******* Starting Add Customer Test **********
+08/14/2020 02:27:48 PM: INFO:******* Starting Add Customer Test **********
+08/14/2020 02:27:48 PM: INFO:******* Starting Add Customer Test **********
+08/14/2020 02:27:48 PM: INFO:******* Starting Add Customer Test **********
+08/14/2020 02:27:53 PM: INFO:************* Providing customer info **********
+08/14/2020 02:27:53 PM: INFO:************* Providing customer info **********
+08/14/2020 02:27:53 PM: INFO:************* Providing customer info **********
+08/14/2020 02:27:53 PM: INFO:************* Providing customer info **********
+08/14/2020 02:27:53 PM: INFO:************* Providing customer info **********
+08/14/2020 03:42:15 PM: INFO:*********************** Start of test_Login ***********************
+08/14/2020 03:42:15 PM: INFO:*********************** Start of test_Login ***********************
+08/14/2020 03:42:15 PM: INFO:*********************** Start of test_Login ***********************
+08/14/2020 03:42:15 PM: INFO:*********************** Start of test_Login ***********************
+08/14/2020 03:42:15 PM: INFO:*********************** Start of test_Login ***********************
+08/14/2020 03:42:27 PM: INFO:***********************End of test_Login ***********************
+08/14/2020 03:42:27 PM: INFO:***********************End of test_Login ***********************
+08/14/2020 03:42:27 PM: INFO:***********************End of test_Login ***********************
+08/14/2020 03:42:27 PM: INFO:***********************End of test_Login ***********************
+08/14/2020 03:42:27 PM: INFO:***********************End of test_Login ***********************
+08/14/2020 03:42:31 PM: INFO:************* Test_003_AddCustomer **********
+08/14/2020 03:42:31 PM: INFO:************* Test_003_AddCustomer **********
+08/14/2020 03:42:31 PM: INFO:************* Test_003_AddCustomer **********
+08/14/2020 03:42:31 PM: INFO:************* Test_003_AddCustomer **********
+08/14/2020 03:42:31 PM: INFO:************* Test_003_AddCustomer **********
+08/14/2020 03:42:44 PM: INFO:************* Login succesful **********
+08/14/2020 03:42:44 PM: INFO:************* Login succesful **********
+08/14/2020 03:42:44 PM: INFO:************* Login succesful **********
+08/14/2020 03:42:44 PM: INFO:************* Login succesful **********
+08/14/2020 03:42:44 PM: INFO:************* Login succesful **********
+08/14/2020 03:42:44 PM: INFO:******* Starting Add Customer Test **********
+08/14/2020 03:42:44 PM: INFO:******* Starting Add Customer Test **********
+08/14/2020 03:42:44 PM: INFO:******* Starting Add Customer Test **********
+08/14/2020 03:42:44 PM: INFO:******* Starting Add Customer Test **********
+08/14/2020 03:42:44 PM: INFO:******* Starting Add Customer Test **********
+08/14/2020 03:42:50 PM: INFO:************* Providing customer info **********
+08/14/2020 03:42:50 PM: INFO:************* Providing customer info **********
+08/14/2020 03:42:50 PM: INFO:************* Providing customer info **********
+08/14/2020 03:42:50 PM: INFO:************* Providing customer info **********
+08/14/2020 03:42:50 PM: INFO:************* Providing customer info **********
+08/14/2020 07:13:32 PM: INFO:*********************** Start of test_Login ***********************
+08/14/2020 07:13:32 PM: INFO:*********************** Start of test_Login ***********************
+08/14/2020 07:13:32 PM: INFO:*********************** Start of test_Login ***********************
+08/14/2020 07:13:32 PM: INFO:*********************** Start of test_Login ***********************
+08/14/2020 07:13:32 PM: INFO:*********************** Start of test_Login ***********************
+08/14/2020 07:13:54 PM: INFO:***********************End of test_Login ***********************
+08/14/2020 07:13:54 PM: INFO:***********************End of test_Login ***********************
+08/14/2020 07:13:54 PM: INFO:***********************End of test_Login ***********************
+08/14/2020 07:13:54 PM: INFO:***********************End of test_Login ***********************
+08/14/2020 07:13:54 PM: INFO:***********************End of test_Login ***********************
+08/14/2020 07:13:58 PM: INFO:************* Test_003_AddCustomer **********
+08/14/2020 07:13:58 PM: INFO:************* Test_003_AddCustomer **********
+08/14/2020 07:13:58 PM: INFO:************* Test_003_AddCustomer **********
+08/14/2020 07:13:58 PM: INFO:************* Test_003_AddCustomer **********
+08/14/2020 07:13:58 PM: INFO:************* Test_003_AddCustomer **********
+08/14/2020 07:14:11 PM: INFO:************* Login succesful **********
+08/14/2020 07:14:11 PM: INFO:************* Login succesful **********
+08/14/2020 07:14:11 PM: INFO:************* Login succesful **********
+08/14/2020 07:14:11 PM: INFO:************* Login succesful **********
+08/14/2020 07:14:11 PM: INFO:************* Login succesful **********
+08/14/2020 07:14:11 PM: INFO:******* Starting Add Customer Test **********
+08/14/2020 07:14:11 PM: INFO:******* Starting Add Customer Test **********
+08/14/2020 07:14:11 PM: INFO:******* Starting Add Customer Test **********
+08/14/2020 07:14:11 PM: INFO:******* Starting Add Customer Test **********
+08/14/2020 07:14:11 PM: INFO:******* Starting Add Customer Test **********
+08/14/2020 07:14:17 PM: INFO:************* Providing customer info **********
+08/14/2020 07:14:17 PM: INFO:************* Providing customer info **********
+08/14/2020 07:14:17 PM: INFO:************* Providing customer info **********
+08/14/2020 07:14:17 PM: INFO:************* Providing customer info **********
+08/14/2020 07:14:17 PM: INFO:************* Providing customer info **********
+08/14/2020 07:21:59 PM: INFO:*********************** Start of test_Login ***********************
+08/14/2020 07:21:59 PM: INFO:*********************** Start of test_Login ***********************
+08/14/2020 07:21:59 PM: INFO:*********************** Start of test_Login ***********************
+08/14/2020 07:21:59 PM: INFO:*********************** Start of test_Login ***********************
+08/14/2020 07:21:59 PM: INFO:*********************** Start of test_Login ***********************
+08/14/2020 07:22:13 PM: ERROR:*********************** Title verification has failed in test_Login ***********************
+08/14/2020 07:22:13 PM: ERROR:*********************** Title verification has failed in test_Login ***********************
+08/14/2020 07:22:13 PM: ERROR:*********************** Title verification has failed in test_Login ***********************
+08/14/2020 07:22:13 PM: ERROR:*********************** Title verification has failed in test_Login ***********************
+08/14/2020 07:22:13 PM: ERROR:*********************** Title verification has failed in test_Login ***********************
+08/14/2020 07:22:14 PM: INFO:*********************** test_Login Needs debugging as it has failed***********************
+08/14/2020 07:22:14 PM: INFO:*********************** test_Login Needs debugging as it has failed***********************
+08/14/2020 07:22:14 PM: INFO:*********************** test_Login Needs debugging as it has failed***********************
+08/14/2020 07:22:14 PM: INFO:*********************** test_Login Needs debugging as it has failed***********************
+08/14/2020 07:22:14 PM: INFO:*********************** test_Login Needs debugging as it has failed***********************
+08/14/2020 07:22:16 PM: INFO:************* Test_003_AddCustomer **********
+08/14/2020 07:22:16 PM: INFO:************* Test_003_AddCustomer **********
+08/14/2020 07:22:16 PM: INFO:************* Test_003_AddCustomer **********
+08/14/2020 07:22:16 PM: INFO:************* Test_003_AddCustomer **********
+08/14/2020 07:22:16 PM: INFO:************* Test_003_AddCustomer **********
+08/14/2020 07:22:31 PM: INFO:************* Login succesful **********
+08/14/2020 07:22:31 PM: INFO:************* Login succesful **********
+08/14/2020 07:22:31 PM: INFO:************* Login succesful **********
+08/14/2020 07:22:31 PM: INFO:************* Login succesful **********
+08/14/2020 07:22:31 PM: INFO:************* Login succesful **********
+08/14/2020 07:22:31 PM: INFO:******* Starting Add Customer Test **********
+08/14/2020 07:22:31 PM: INFO:******* Starting Add Customer Test **********
+08/14/2020 07:22:31 PM: INFO:******* Starting Add Customer Test **********
+08/14/2020 07:22:31 PM: INFO:******* Starting Add Customer Test **********
+08/14/2020 07:22:31 PM: INFO:******* Starting Add Customer Test **********
+08/14/2020 07:22:42 PM: INFO:************* Providing customer info **********
+08/14/2020 07:22:42 PM: INFO:************* Providing customer info **********
+08/14/2020 07:22:42 PM: INFO:************* Providing customer info **********
+08/14/2020 07:22:42 PM: INFO:************* Providing customer info **********
+08/14/2020 07:22:42 PM: INFO:************* Providing customer info **********
+08/14/2020 07:23:47 PM: INFO:*********************** Start of test_Login ***********************
+08/14/2020 07:23:47 PM: INFO:*********************** Start of test_Login ***********************
+08/14/2020 07:23:47 PM: INFO:*********************** Start of test_Login ***********************
+08/14/2020 07:23:47 PM: INFO:*********************** Start of test_Login ***********************
+08/14/2020 07:23:47 PM: INFO:*********************** Start of test_Login ***********************
+08/14/2020 07:24:05 PM: INFO:***********************End of test_Login ***********************
+08/14/2020 07:24:05 PM: INFO:***********************End of test_Login ***********************
+08/14/2020 07:24:05 PM: INFO:***********************End of test_Login ***********************
+08/14/2020 07:24:05 PM: INFO:***********************End of test_Login ***********************
+08/14/2020 07:24:05 PM: INFO:***********************End of test_Login ***********************
+08/14/2020 07:24:09 PM: INFO:************* Test_003_AddCustomer **********
+08/14/2020 07:24:09 PM: INFO:************* Test_003_AddCustomer **********
+08/14/2020 07:24:09 PM: INFO:************* Test_003_AddCustomer **********
+08/14/2020 07:24:09 PM: INFO:************* Test_003_AddCustomer **********
+08/14/2020 07:24:09 PM: INFO:************* Test_003_AddCustomer **********
+08/14/2020 07:24:26 PM: INFO:************* Login succesful **********
+08/14/2020 07:24:26 PM: INFO:************* Login succesful **********
+08/14/2020 07:24:26 PM: INFO:************* Login succesful **********
+08/14/2020 07:24:26 PM: INFO:************* Login succesful **********
+08/14/2020 07:24:26 PM: INFO:************* Login succesful **********
+08/14/2020 07:24:26 PM: INFO:******* Starting Add Customer Test **********
+08/14/2020 07:24:26 PM: INFO:******* Starting Add Customer Test **********
+08/14/2020 07:24:26 PM: INFO:******* Starting Add Customer Test **********
+08/14/2020 07:24:26 PM: INFO:******* Starting Add Customer Test **********
+08/14/2020 07:24:26 PM: INFO:******* Starting Add Customer Test **********
+08/14/2020 07:24:31 PM: INFO:************* Providing customer info **********
+08/14/2020 07:24:31 PM: INFO:************* Providing customer info **********
+08/14/2020 07:24:31 PM: INFO:************* Providing customer info **********
+08/14/2020 07:24:31 PM: INFO:************* Providing customer info **********
+08/14/2020 07:24:31 PM: INFO:************* Providing customer info **********
