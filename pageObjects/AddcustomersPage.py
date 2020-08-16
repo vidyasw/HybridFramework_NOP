@@ -1,5 +1,6 @@
 import time
 from selenium.webdriver.support.ui import Select
+from selenium.webdriver.common.by import By
 
 
 class AddCustomer():
@@ -43,7 +44,7 @@ class AddCustomer():
         self.driver.find_element_by_xpath(self.txtPassword_xpath).send_keys(password)
 
     def setCustomerRoles(self,role):
-        self.driver.find_element_by_xpath(self.txtcustomerRoles_xpath).click()
+        self.driver.find_elements(By.XPATH,self.txtcustomerRoles_xpath)[1].click()
         time.sleep(3)
         if role == 'Registered':
             self.listitem = self.driver.find_element_by_xpath(self.lstitemRegistered_xpath)
