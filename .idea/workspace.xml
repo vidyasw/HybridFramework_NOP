@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec01893a-3743-4ff7-9dec-9902e6a7516f" name="Default Changelist" comment="" />
+    <list default="true" id="ec01893a-3743-4ff7-9dec-9902e6a7516f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/automation.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCases/test_Login.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCases/test_Login.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1fx7LSl2NfwudJQ4MKNpzF3WOEU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="foldersAlwaysOnTop" value="false" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -106,9 +114,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="183" y="5" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597320965003" />
-    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1597501872214">
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1597564884086">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1597501872214" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1597564884086" />
   </component>
 </project>

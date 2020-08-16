@@ -1,7 +1,7 @@
 from pageObjects.LoginPage import Login
-import moment
 from utilities.readPropertiesini import ReadConfig
 from utilities.customLogger import LogGen
+from datetime import datetime
 import pytest
 
 
@@ -26,7 +26,7 @@ class Test_001_Login:
             self.logger.error(
                 '*********************** Title verification has failed in test_homePageTitle ***********************')
             self.driver.save_screenshot(".\\Screenshots\\"+"test_homePageTitle_" +
-                                        moment.now().strftime("%d-%m-%y_%H-%M-%S") + ".png")
+                                        datetime.now().strftime("%d-%m-%y_%H-%M-%S") + ".png")
             self.driver.close()
             self.logger.info(
                 '*********************** test_homePageTitle Needs debugging as it has failed***********************')
@@ -51,7 +51,7 @@ class Test_001_Login:
             self.logger.error(
                 '*********************** Title verification has failed in test_Login ***********************')
             self.driver.save_screenshot(".\\Screenshots\\" + "test_Login_" +
-                                        moment.now().strftime("%d-%m-%y_%H-%M-%S") + ".png")
+                                        datetime.now().strftime("%d-%m-%y_%H-%M-%S") + ".png")
             self.driver.close()
             self.logger.info(
                 '*********************** test_Login Needs debugging as it has failed***********************')
